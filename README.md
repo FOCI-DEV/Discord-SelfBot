@@ -72,7 +72,7 @@ This is the folder where you drag and drop your avatar images if you enabled ava
 
 This is the main config file. Inside you will see several options. This is what each one means:
 
-- `token` is your Discord token. (if you don't know what a Discord token is, or how to get yours, [**check out this tutorial made by me**](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial))
+- `token` is your Discord token. (if you don't know what a Discord token is, or how to get yours, [**check out this tutorial made by F.O.C.I.#0001**](https://github.com/FOCI-DEV/Get-Discord-Token))
 - `ownerID` is your discord ID
 - `prefix` is the desired prefix for bot commands (can use `@mention ` if you want the prefix to be your Discord mention)
 - `rotatePlayingGame`, if you want your Discord playing game to rotate games (from the `games.json` file)
